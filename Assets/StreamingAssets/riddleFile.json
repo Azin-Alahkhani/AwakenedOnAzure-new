@@ -1,0 +1,54 @@
+{
+  "riddlesFile": [
+    {
+      "textQuestion": "What has keys but can't open locks?",
+      "textAnswers": ["A piano", "A map", "A code", "A door"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "textQuestion": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+      "textAnswers": ["An echo", "A shadow", "A cloud", "A tree"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "textQuestion": "The more of this there is, the less you see. What is it?",
+      "textAnswers": ["Darkness", "Light", "Fog", "Snow"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "textQuestion": "What has many teeth but can’t bite?",
+      "textAnswers": ["A comb", "A saw", "A zipper", "A gear"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "textQuestion": "What can travel around the world while staying in a corner?",
+      "textAnswers": ["A stamp", "A map", "A postcard", "A letter"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "textQuestion": "What is so fragile that saying its name breaks it?",
+      "textAnswers": ["Silence", "Glass", "Hope", "Shadow"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "textQuestion": "The more you take, the more you leave behind. What am I?",
+      "textAnswers": ["Footsteps", "Memories", "Time", "Steps"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "textQuestion": "I am not alive, but I can grow; I don't have lungs, but I need air. What am I?",
+      "textAnswers": ["A fire", "A balloon", "A plant", "A cloud"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "textQuestion": "What has to be broken before you can use it?",
+      "textAnswers": ["An egg", "A seal", "A promise", "A heart"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "textQuestion": "I’m tall when I’m young, and I’m short when I’m old. What am I?",
+      "textAnswers": ["A candle", "A tree", "A shadow", "A mountain"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
